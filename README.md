@@ -521,8 +521,10 @@ jp@ubuntu:~/catkin_ws$ rosed roscpp [TAB TAB]
 Empty.srv                   GetLoggers.srv              package.xml                 roscppConfig-version.cmake  SetLoggerLevel.srv
 genmsg_cpp.py               Logger.msg                  roscpp.cmake                roscpp-msg-extras.cmake
 gensrv_cpp.py               msg_gen.py                  roscppConfig.cmake          roscpp-msg-paths.cmake
+```
 
 ##Examining Publisher and Subscriber
+```shell
 [SHELL 1] jp@ubuntu:~/catkin_ws$ roscore
 
 [SHELL 2] jp@ubuntu:~/catkin_ws$ rosrun beginner_tutorials talker
