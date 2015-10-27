@@ -1,0 +1,12 @@
+background_b: 255
+background_g: 86
+background_r: 150
+rosdistro: 'indigo
+
+  '
+roslaunch:
+  uris: {host_localhost__34201: 'http://localhost:34201/'}
+rosversion: '1.11.13
+
+  '
+run_id: 0e33b6a0-7c95-11e5-b394-b888e3e04b40
